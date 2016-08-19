@@ -40,7 +40,7 @@ div {
     -webkit-animation-iteration-count: 3; /* Chrome, Safari, Opera */
     animation-name: example;
     animation-duration: 4s;
-    animation-iteration-count: 15;
+    animation-iteration-count: infinite;
 }
 
 /* Chrome, Safari, Opera */
